@@ -1,5 +1,4 @@
 # Staff-Scheduling-Problem
-Learn how to use Linear Programming to solve Staff Scheduling problems.
 
 As Senior operation manager, your job is to optimize scarce resources, improve productivity, reduce cost and maximize profit. For example, scheduling workers’ shifts for the most effective utilization of manpower. We need to consider the various restrictions of the total working hours of each employee, the number of shifts, shift hours, and other constraints. Such a problem can be considered an optimization problem.
 
